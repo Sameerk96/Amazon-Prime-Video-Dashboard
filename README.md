@@ -67,6 +67,7 @@ This dashboard helps content analysts, media researchers, and business stakehold
 ---
 
 ## 📷 Dashboard Preview
+Amazon Prime Video Dashboard screen shot.png
 
 
 
